@@ -1,0 +1,1 @@
+The project consists of various components that serve different purposes
