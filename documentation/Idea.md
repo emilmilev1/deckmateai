@@ -11,16 +11,22 @@ DeckMateAI generates tailored decks through AI insights:
   - **Algorithmic Recommendations**: Analyze card synergies for optimal strategies.
 - **Enhanced Strategy**: Discover effective combinations for offense, defense, and elixir management.
 
+---
+
 ### User-Friendly Interface
 The interface is designed for ease of use:
 - **Cards**: Browse and select cards with detailed stats.
 - **Copy Deck Functionality**: Copy your favorite deck
 - **Custom Themes**: Choose between light and dark modes for a personalized experience.
 
+---
+
 ### Real-Time Updates
 Stay informed with the latest game changes:
 - **Live Data Integration**: Automatic updates for new card releases and balance changes.
 - **In-Game Relevance**: Create decks that reflect the current meta.
+
+---
 
 ### Deck Management and Statistics
 Efficiently manage and analyze your decks:

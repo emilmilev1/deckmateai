@@ -10,3 +10,9 @@ DeckMateAI is intuitive and accessible. Here's how to get started:
 6. **Receive Suggestions**: Use OpenAI or algorithmic options to generate optimized decks.
 7. **Review and Adjust**: Save the deck, analyze performance metrics, and refine your strategy.
 8. **Saving and Reviewing Decks**: Once satisfied, save your deck and review its statistics, or delete any unnecessary decks to keep your collection organized.
+9. **Viewing Brawl Stars Hero Ranking**: 
+    - Access the **Hero Ranking** section from the main menu. 
+    - Browse through the list of Brawl Stars heroes.
+    - Each hero's profile includes:
+      - Key stats of player's hero (Rank, Trophies and Clan).
+   - Use this information to make informed decisions while building your strategy.
