@@ -1,7 +1,9 @@
 # API Documentation
 
 ## Overview
-DeckMateAI integrates data from popular gaming APIs to provide enhanced features and insights. Our system utilizes the official APIs of **Clash Royale** and **Brawl Stars** to fetch real-time data, ensuring accurate and up-to-date information for users. 
+DeckMateAI integrates data from popular gaming APIs to provide enhanced features and insights. Our system utilizes the official APIs of **Clash Royale** and **Brawl Stars** to fetch real-time data, ensuring accurate and up-to-date information for users.
+
+<img src="images/flow/flow.png" alt="Example Image" >
 
 ## APIs Used
 
