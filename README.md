@@ -1,7 +1,7 @@
 # DeckMateAI
 
 > [!IMPORTANT]
-> The website is not available
+> This website is no longer available.
 
 The ultimate deck builder for Clash Royale. This project leverages AI technology to help users craft their perfect decks based on personal preferences and strategies.
 
