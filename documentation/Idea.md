@@ -2,6 +2,7 @@
 
 DeckMateAI is an innovative tool designed to help Clash Royale players create powerful, personalized decks using AI technology. It allows users to build decks based on their preferred strategies and card choices while staying current with game updates. DeckMateAI offers two main options for deck creation: OpenAI-based recommendations and algorithm-driven suggestions, along with comprehensive deck management features.
 
+<img src="images/main/main.png" alt="Example Image">
 <img src="images/idea/deck.png" alt="Example Image" >
 
 ### AI-Powered Deck Creation
